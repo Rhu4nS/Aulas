@@ -2,9 +2,9 @@
 
 FASE 09
 
-Exemplo: Uma variavel com 20 caracteres
+-------Manipular Cadeias de Texto:--------------
 
-Manipular Cadeias de Texto:
+Exemplo: Uma variavel com 20 caracteres
 
 FATIAMENTO de str:
 
