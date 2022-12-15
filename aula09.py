@@ -82,7 +82,32 @@ variavel.title()
 onde estiver quebra, a primeira letra fica maiuscula
 -------------------------------
 
+função strip
 
+frase.strip()
+remove os espaços desnecessarios
+--------------------------------
+função rstrip
+
+frase.rstrip()
+remove os ultimos espaços vazios da str
+--------------------------------
+função lstrip
+
+frase.lstrip()
+remove os primeiros espaços vazios da str
+---------------------------------------------------------
+DIVISÃO
+
+split
+
+variavel.split()
+faz a divisão da str e separa os pedaços e refaz a numeraão de cada elemento
+--------------------------
+JUNÇÃO
+
+'-'.join(variavel)
+faz a junçao da string e coloca - no lugar dos epaços, separando
 
 
 
