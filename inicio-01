@@ -26,10 +26,10 @@ Qual o seu nome ?
 -----------------------------
 crie um programa que pergunte o seu nome e de as boas vindas:
 
-nome = input('Qual o seu nome ?')
+nome= input('Qual o seu nome ?')
 print(' seja bem vindo', nome)
 ------------------------------
-função format: 
+função format:
 ultilizada para carregar variaveis dento do {}
 exemplo:
 nome = Rhuan
