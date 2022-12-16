@@ -33,5 +33,5 @@ função format:
 ultilizada para carregar variaveis dento do {}
 exemplo:
 nome = Rhuan
-print('olá, {}.' .format{nome}
+print('olá, {}.' .format(nome))
 olá, Rhuan.
