@@ -1,5 +1,5 @@
 # Aprendendo python
-
+'''
 AULA 01
 
 função print:
@@ -35,4 +35,4 @@ exemplo:
 nome = Rhuan
 print('olá, {}.' .format(nome))
 olá, Rhuan.
-
+'''
