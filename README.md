@@ -1,2 +1,2 @@
 # Aulas
-Explicação da aulas de python
+Explicação das aulas de python
