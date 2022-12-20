@@ -1,6 +1,7 @@
 
 
 ----------------------------------------------------
+'''
 Adição ( + )
 Divisão ( / )
 subtração ( - )
@@ -8,6 +9,7 @@ Potencia ( ** )
 multiplicação ( * )
 Divisão inteira ( // )
 Resto da divisão ( % )
+'''
 ----------------------------------------------------
 
 5 + 2 == 7
@@ -19,7 +21,7 @@ Resto da divisão ( % )
 5 % 2 == 1
 
 ------------------------------------------------------
-ORDEM DE PRECEDÊNCIA
+#ORDEM DE PRECEDÊNCIA
 
 1- ()
 2- **
@@ -27,13 +29,15 @@ ORDEM DE PRECEDÊNCIA
 4- +, -
 
 -------------------------------------------------------
-Concatenar:
+#Concatenar:
+
 oi + olá = 'oiolá
 oi * 5 = oioioioioi
 
 '='*10 = ==========
 print('-')*10
-----------
+-----------
+
 ----------------------------------------------------------
                     #FUNÇÃO PRINT
 # escrever a função em 20 caracteres:
