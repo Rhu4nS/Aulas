@@ -29,3 +29,16 @@ Resultado: Croe ie
 frase = 'Curso em Video python'
 print(frase[::2])
 Resultado: Croe ie yhn
+
+  #COLOCANDO A VARIAVEL EM LETRA MAIUSCULA
+
+frase = 'Curso em video python'
+print(frase.upper().count('O'))
+Resultado:3
+  
+  
+  
+  
+  
+  
+  
