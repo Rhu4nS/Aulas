@@ -1,6 +1,6 @@
 
 
-FASE 09
+#FASE 09
 
 -------Manipular Cadeias de Texto:--------------
 
@@ -33,7 +33,7 @@ começa no 9 e vai até o final pulando de 3 em 3 str
 selecionando assim: 9-12-15-18
 
 -------------------------------------------
-ANÁLISE
+#ANÁLISE
 
 Função len[variavel]
 mostra o comprimento da variavel
@@ -56,7 +56,7 @@ Operador in:
 'qualquer informação' in variavel
 encontra uma informação dentro da variavel e diz se é True or False
 --------------------------------------------------------------------------
-TRANSFORMAÇÃO
+#TRANSFORMAÇÃO
 
 função replace = substituir
 variavel.replace('palavra1','palavra2')
@@ -82,7 +82,7 @@ variavel.title()
 onde estiver quebra, a primeira letra fica maiuscula
 -------------------------------
 
-função strip
+#Função strip
 
 frase.strip()
 remove os espaços desnecessarios
@@ -97,14 +97,14 @@ função lstrip
 frase.lstrip()
 remove os primeiros espaços vazios da str
 ---------------------------------------------------------
-DIVISÃO
+#DIVISÃO
 
 split
 
 variavel.split()
-faz a divisão da str e separa os pedaços e refaz a numeraão de cada elemento
+faz a divisão da str e separa os pedaços e refaz a numeração de cada elemento
 --------------------------
-JUNÇÃO
+#JUNÇÃO
 
 '-'.join(variavel)
 faz a junçao da string e coloca - no lugar dos epaços, separando
