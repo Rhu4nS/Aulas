@@ -22,3 +22,8 @@ print('Está em maiusculo?', a.isupper())
 print('Está em minusculo?', a.islower())
 
 print('Está capitalizada?', a.istitle())
+
+
+
+
+---------------------------------------
